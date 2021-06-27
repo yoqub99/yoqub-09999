@@ -1,0 +1,110 @@
+.header{
+    width: 100%;
+    background: #0E0E0E;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+}
+.aside{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;  
+}
+.aside_atim img{
+    width: 143px;
+    height: 25px;
+}
+.nav_menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: -197px;
+}
+.claswrap_link{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 25px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-right: 34px;
+}
+.aside_atim1 img{
+    width: 23px;
+    height: 16px;
+    margin-right: 44px;
+}
+hr{
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.2;
+}
+.section_menu{
+    width: 100%;
+    background: #141414;
+}
+.sidebar_atim{
+    width: 1440px;
+    height: 700px;
+    background-image: url(../../img/img/Bitmap1111111.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    margin-top: -10px;
+    margin-left: -155px;
+}
+.sidebar_atim{
+    padding-top: 150px;
+    padding-left: 165px;
+}
+.sidebar_p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    margin-bottom: 24px;
+}
+.sidebar_atim h1{
+    width: 396px;
+    height: 116px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 58px;
+    letter-spacing: 2px;
+    text-transform: uppercase; 
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+.sidebar_p1{
+    width: 349px;
+    height: 75px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;
+    color: #FFFFFF; 
+    mix-blend-mode: normal;
+    opacity: 0.75;
+    margin-bottom: 40px;
+}
+.sidebar_link{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 15px 30px;
+    background: #D87D4A;
+}
+.sidebar_link:hover{
+    background: #FBAF85;
+}

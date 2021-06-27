@@ -1,0 +1,332 @@
+
+
+
+
+
+.widget{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 200px;
+}
+.widget_atim{
+    width: 350px;
+    height: 204px;
+    background: #F1F1F1;
+    border-radius: 8px;
+}
+.widget_atim h2{
+    position: relative;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 1.28571px;
+    text-transform: uppercase;
+    color: #000000;
+    margin-top: 116px;
+}
+.widget_atim h2::before{
+    display: inline-block;
+    position: absolute;
+    width: 123px;
+    height: 160px;
+    content: "";
+    background-image: url(../../img/img/image.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    bottom: 85px;
+}
+.widget_atim p{
+    position: relative;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.widget_atim p::before{
+    display: inline-block;
+    position: absolute;
+    content: "";
+    width: 10px;
+    height: 10px;
+    background-image: url(../../img/img/Path2.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    left: 210px;
+    top: 3px;
+}
+.widget_atim1{
+    width: 350px;
+    height: 204px;
+    background: #F1F1F1;
+    border-radius: 8px;
+}
+.widget_atim1 h2{
+    position: relative;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 1.28571px;
+    text-transform: uppercase;
+    color: #000000;
+    margin-top: 116px;
+}
+.widget_atim1 h2::before{
+    display: inline-block;
+    position: absolute;
+    width: 123px;
+    height: 160px;
+    content: "";
+    background-image: url(../../img/img/kalonka.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    bottom: 85px;
+}
+.widget_atim1 p{
+    position: relative;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.widget_atim1 p::before{
+    display: inline-block;
+    position: absolute;
+    content: "";
+    width: 10px;
+    height: 10px;
+    background-image: url(../../img/img/Path2.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    left: 210px;
+    top: 3px;
+}
+.widget_atim2{
+    width: 350px;
+    height: 204px;
+    background: #F1F1F1;
+    border-radius: 8px;
+}
+.widget_atim2 h2{
+    position: relative;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 1.28571px;
+    text-transform: uppercase;
+    color: #000000;
+    margin-top: 116px;
+}
+.widget_atim2 h2::before{
+    display: inline-block;
+    position: absolute;
+    width: 123px;
+    height: 160px;
+    content: "";
+    background-image: url(../../img/img/bas.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    bottom: 85px
+}
+.widget_atim2 p{
+    position: relative;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    text-align: center;
+    margin-bottom: 30px;
+    
+}
+.widget_atim2 p::before{
+    display: inline-block;
+    position: absolute;
+    content: "";
+    width: 10px;
+    height: 10px;
+    background-image: url(../../img/img/Path2.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    left: 210px;
+    top: 3px
+    
+}
+.overlay_atim1 img{
+   border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.section{
+    background-image: url(../../img/img/zx9-bg.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    border-radius: 10px;
+    margin-left: 40px;
+}
+.pending{
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+.success_picture img{
+    width: 410px;
+    height: 493px;
+    margin-left: 117px;
+    margin-top: 70px;
+}
+.pending_atim2{
+    margin-top: 133px;
+    margin-right: 95px;
+}
+.pending_atim2 h2{
+    width: 261px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 58px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+.pending_atim2 p{
+    width: 347px;
+    height: 75px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.75;
+    margin-bottom: 40px;
+}
+.warning{
+    width: 1110px;
+    height: 320px;
+    margin-top: 48px;
+    background-image: url(../../img/img/ZX7SPEAKER.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain
+}
+.warning_atim{
+    padding-top: 101px; 
+    margin-left: 95px;  
+}
+.warning_atim-text{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.error{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 48px;
+}
+.error_atim img{
+    width: 540px;
+    height: 320px;
+   border-radius: 5px;
+}
+.error_atim2{
+    width: 540px;
+    height: 320px;
+    background: #F1F1F1;
+    border-radius: 8px;
+}
+.error_atim2{
+    padding-left: 95px;
+    padding-top: 101px;
+}
+.error_atim2 h2{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.overlay{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 200px;
+}
+.overlay_atim h2{
+    width: 445px;
+    height: 88px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 44px;
+    letter-spacing: 1.42857px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.overlay_atim p{
+    width: 445px;
+    height: 175px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;
+    color: #000000;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+.overlay_atim-span{
+    color: #D87D4A
+}
+.overlay_atim1 img{
+    width:540px;
+    height: 588px;
+    margin-left: 125px;   
+}

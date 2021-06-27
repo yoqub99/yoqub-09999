@@ -1,0 +1,48 @@
+// COLOR 
+$col-D87D4A: #D87D4A;
+$col-101010: #101010;
+$col-F1F1F1: #F1F1F1;
+$col-FAFAFA: #FAFAFA;
+$col-fbaf85: #fbaf85;
+$col-ffffff: #ffffff;
+$col-000000: #000000;
+$col-4C4C4C: #4C4C4C;
+
+// link 
+
+@mixin link {
+    text-transform: uppercase;
+    color: $col-ffffff;
+    padding: 15px 31px;
+    background-color: $col-D87D4A;
+}
+@mixin link_hover {
+    background-color: $col-fbaf85;
+}
+@mixin link2 {
+    text-transform: uppercase;
+    color: $col-ffffff;
+    padding: 15px 31px;
+    background-color: $col-000000;
+}
+@mixin link2_hover {
+    background-color:$col-4C4C4C;
+}
+@mixin link3 {
+    text-transform: uppercase;
+    color: $col-000000;
+    padding: 13px 29px;
+    background-color: transparent;
+    border: 2px solid $col-000000;
+}
+@mixin link3_hover {
+    background-color: $col-000000;
+    color: $col-ffffff;
+}
+
+
+@mixin shop-hover {
+    color:$col-D87D4A;
+    
+}
+

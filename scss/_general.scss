@@ -1,0 +1,28 @@
+body{
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+}
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+h1, h2, h3, h4{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 700;
+}
+p{
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;
+}
