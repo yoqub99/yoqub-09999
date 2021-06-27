@@ -1701,6 +1701,7 @@ svg:hover {
     background-position: center center;
     background-size: contain;
     margin-left: 34px;
+    border-radius: 10px;
   }
   .warning_atim {
     padding-top: 101px;
